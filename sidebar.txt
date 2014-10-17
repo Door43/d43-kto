@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kto:home|Door43 (kto)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kto|d43-kto repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kto/archive/master.zip|d43-kto.zip]]
+
+**Recent Changes**
+{{changes>ns = kto}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kto|Ethnologue data]]
+
